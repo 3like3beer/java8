@@ -1,0 +1,14 @@
+Un palindrome de lettres, est une figure de style désignant un texte ou un 
+mot dont l'ordre des lettres reste le même qu'on le lise de gauche à droite ou de droite à gauche, 
+comme dans la phrase « Ésope reste ici et se repose » ou encore « La mariée ira mal » à un accent près.
+
+Le palindrome est un cas particulier d'anagramme et d'anacyclique comme « suce|écus », pour lequel la signification est la même dans les deux sens de lecture.
+
+Il est communément admis que l'on ne tient pas compte des signes diacritiques (accents, trémas, cédilles) ni des espaces
+
+
+
+
+
+--------------------------------------------
+Soit n-1 chiffres distincts compris entre 1 et n, trouver le chiffre manquant
